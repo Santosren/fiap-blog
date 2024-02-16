@@ -1,6 +1,6 @@
 # Blog React
 
-Este é um projeto de blog desenvolvido em React.
+Este é um projeto de blog desenvolvido em React. Disponível em: [https://singular-chimera-dd0b6e.netlify.app](https://singular-chimera-dd0b6e.netlify.app)
 
 ## Instalação
 
@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-O projeto estará disponível em [http://localhost:5173](http://localhost:5173).
+O projeto estará disponível localmente em: [http://localhost:5173](http://localhost:5173).
 
 ## Arquivos
 
